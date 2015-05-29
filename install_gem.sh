@@ -6,4 +6,4 @@ unzip rubygems-2.4.7.zip
 
 cd rubygems-2.4.7
 
-ruby setup.rb
+ruby setup.rb || exit 0
